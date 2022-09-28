@@ -7,12 +7,15 @@ h1 {
 }
 table {
     font-size: 20px;
+    background-color: burlywood;
 }
 img {
     text-align: center;
+    height: 155px;
 }
 body {
     font-size: 20px;
+    align-content: center;
 }
 
 #Home {
@@ -66,4 +69,7 @@ ol {
 }
 .pic {
     text-align: center;
+}
+nav {
+    background-color: palevioletred;
 }
