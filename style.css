@@ -11,7 +11,7 @@ table {
 }
 img {
     text-align: center;
-    height: 155px;
+    height: 100px;
 }
 body {
     font-size: 20px;
@@ -67,9 +67,10 @@ ol {
 .PD {
     height: 300px;
 }
-.pic {
-    text-align: center;
-}
-nav {
+#navbarNav {
     background-color: palevioletred;
+}
+#carousel {
+    height: 100%;
+    width: 100%;
 }
